@@ -1,0 +1,8 @@
+
+
+
+spring:
+  application:
+    name: spring_demo
+logging:
+  file: c:/xxx/x3/${spring.application.name}.log
